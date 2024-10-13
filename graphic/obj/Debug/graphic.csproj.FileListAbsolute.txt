@@ -1,0 +1,11 @@
+C:\Курс 4\диплом\graphic\graphic\graphic\bin\Debug\graphic.exe.config
+C:\Курс 4\диплом\graphic\graphic\graphic\bin\Debug\graphic.exe
+C:\Курс 4\диплом\graphic\graphic\graphic\bin\Debug\graphic.pdb
+C:\Курс 4\диплом\graphic\graphic\graphic\obj\Debug\graphic.csproj.AssemblyReference.cache
+C:\Курс 4\диплом\graphic\graphic\graphic\obj\Debug\graphic.Form1.resources
+C:\Курс 4\диплом\graphic\graphic\graphic\obj\Debug\graphic.Properties.Resources.resources
+C:\Курс 4\диплом\graphic\graphic\graphic\obj\Debug\graphic.csproj.GenerateResource.cache
+C:\Курс 4\диплом\graphic\graphic\graphic\obj\Debug\graphic.csproj.CoreCompileInputs.cache
+C:\Курс 4\диплом\graphic\graphic\graphic\obj\Debug\graphic.exe
+C:\Курс 4\диплом\graphic\graphic\graphic\obj\Debug\graphic.pdb
+C:\Курс 4\диплом\graphic\graphic\graphic\obj\Debug\graphic.csproj.SuggestedBindingRedirects.cache
